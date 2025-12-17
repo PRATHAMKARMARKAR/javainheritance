@@ -1,0 +1,10 @@
+Student Student1 = new Student();
+    //         Student1.name = "Alice";
+    //         Student1.age = 20;
+    //         Student1.rollno = 123;
+    //         Student1.PrintDetails();
+    // Student Student2 = new Student();
+    //         Student2.name = "Bob";
+    //         Student2.age = 22;
+    //         Student2.rollno = 456;
+    //         Student2.PrintDetails();  
